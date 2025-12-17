@@ -1,0 +1,618 @@
+[
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/37_2_Drone.mp4",
+    "question": "What type of bee is mostly visible in this video?",
+    "answer": "The video mostly shows a drone bee. It is larger than worker bees, has a bulkier abdomen, and big rounded eyes that meet at the top of the head, which are typical drone characteristics."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/37_2_Drone.mp4",
+    "question": "Describe what the drone bee is doing in this clip.",
+    "answer": "The drone bee is walking calmly across the comb surface. It is not collecting nectar or pollen; instead, it is simply moving around the hive, a normal behavior since drones do not gather resources but mainly eat and stay inside until mating flights."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/37_2_Drone.mp4",
+    "question": "How do you know this is a drone bee?",
+    "answer": "The bee has a very large and rounded body, oversized eyes that almost touch at the top, and a thick abdomen. It also lacks pollen baskets. These are key features that distinguish drones from worker bees."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/37_2_Drone.mp4",
+    "question": "What is the main behavior happening in the video?",
+    "answer": "A drone bee is slowly roaming on the comb. There is no foraging or fanning happening. Drones mainly wander around inside the hive, feed themselves, and wait for an opportunity to join a mating flight."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/37_2_Drone.mp4",
+    "question": "Is this a worker bee or a drone bee? Explain why.",
+    "answer": "It is a drone bee. You can tell because its eyes are extremely large, its body is thicker and heavier, and it does not have pollen baskets. Worker bees are slimmer with smaller eyes and more active in tasks like cleaning or carrying pollen."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/37_2_Drone.mp4",
+    "question": "What role does the bee in this video play in the colony?",
+    "answer": "The bee is a drone, whose main purpose in the colony is reproduction. Drones leave the hive for mating flights, but inside the hive they typically walk around, eat, and rest, as seen in this video."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/37_2_Drone.mp4",
+    "question": "Explain the behavior and body posture seen in this clip.",
+    "answer": "The drone bee is calmly moving around with a slow and heavy walking motion, which is typical of drones. It does not show the fast, purposeful movement of worker bees. The posture is relaxed and non-aggressive."
+  },
+
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/5_1_Fanning.mp4",
+    "question": "What are the bees doing in this video?",
+    "answer": "The bees are fanning: they stay mostly in one spot with their wings moving very rapidly to push air through the hive and help with ventilation."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/5_1_Fanning.mp4",
+    "question": "Why do the bees’ wings look like a blur while they stand still?",
+    "answer": "Their wings look blurred because they are beating them very fast while standing in place. This wing-beating behavior is called fanning and is used to ventilate the hive and control temperature and odor."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/5_1_Fanning.mp4",
+    "question": "Are the bees foraging or fanning here? Explain your reasoning.",
+    "answer": "The bees are fanning, not foraging. They are not moving between flowers or cells; instead they stand near the hive entrance with raised abdomens and rapidly beating wings to circulate air through the hive."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/5_1_Fanning.mp4",
+    "question": "Describe the main activity of the bees in detail.",
+    "answer": "In this clip the bees stay mostly in the same location, often facing outward from the hive entrance. Their wings move extremely fast, creating a slight blur. This is fanning behavior, where the bees use their wings like small fans to pull fresh air in and push warm or moist air out, helping regulate hive temperature and humidity."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/5_1_Fanning.mp4",
+    "question": "What are the bees doing?",
+    "answer": "The bees are fanning their wings rapidly at the entrance of the hive to push air through the comb and regulate temperature and humidity."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/5_1_Fanning.mp4",
+    "question": "Why are the bees moving their wings so fast?",
+    "answer": "They are fanning. Bees fan their wings quickly to ventilate the hive and help evaporate moisture from nectar."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/5_1_Fanning.mp4",
+    "question": "Describe the main behavior.",
+    "answer": "Worker bees stand at the hive entrance and beat their wings to circulate fresh air inside the hive."
+  },
+
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/7_2_Fanning.mp4",
+    "question": "What are the bees doing in this video?",
+    "answer": "The bees are fanning their wings rapidly at the hive entrance. This wing-vibrating motion pushes air through the hive to cool it, regulate humidity, and maintain proper ventilation."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/7_2_Fanning.mp4",
+    "question": "Why are the bees moving their wings so fast?",
+    "answer": "They are performing fanning behavior. Worker bees beat their wings quickly to circulate airflow inside the hive, helping with cooling and moisture control."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/7_2_Fanning.mp4",
+    "question": "What activity do you see?",
+    "answer": "The bees are performing fanning behavior, using rapid wing motion to cool the colony and maintain airflow."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/7_2_Fanning.mp4",
+    "question": "Explain the wing motion shown here.",
+    "answer": "The fast, continuous wing fluttering is a clear sign of fanning, which helps ventilate the hive."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/7_2_Fanning.mp4",
+    "question": "What purpose does this behavior serve?",
+    "answer": "The bees are regulating internal hive temperature by fanning warm air out and drawing cooler air in."
+  },
+
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/7_3_Fanning.mp4",
+    "question": "What are the bees doing in this video?",
+    "answer": "The bees are fanning their wings rapidly at the hive entrance to move air through the colony and help regulate the hive temperature."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/7_3_Fanning.mp4",
+    "question": "Describe the main activity of the bees here.",
+    "answer": "Most of the bees are standing in place with their abdomens slightly raised and their wings beating quickly, which indicates fanning behavior for ventilation."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/7_3_Fanning.mp4",
+    "question": "Are the bees foraging or doing something else in this clip?",
+    "answer": "They are not foraging; instead, they are fanning their wings in place to circulate air and control the hive’s internal temperature."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/7_3_Fanning.mp4",
+    "question": "Why are the bees moving their wings so fast while staying almost in the same spot?",
+    "answer": "The bees are fanning: by rapidly beating their wings without flying away, they create airflow that cools the hive and helps evaporate moisture from nectar."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/7_3_Fanning.mp4",
+    "question": "What behavior is shown when bees’ wings look blurred from motion but they don’t leave the hive entrance?",
+    "answer": "That wing blur with the bees staying fixed at the entrance is a clear sign of fanning behavior to ventilate the hive, not flight or foraging."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/7_3_Fanning.mp4",
+    "question": "Explain the purpose of the bees’ wing movement in this scene.",
+    "answer": "The wing movement is for ventilation: the bees are acting like tiny fans, pushing air in and out of the hive to keep the colony cool and maintain proper humidity."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/7_3_Fanning.mp4",
+    "question": "Is this defensive behavior or ventilation behavior?",
+    "answer": "This is ventilation behavior. The bees are lined up and fanning their wings to move air, not raising their bodies aggressively or attacking like in defensive behavior."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/7_3_Fanning.mp4",
+    "question": "What hive-level task are the bees performing here?",
+    "answer": "They are performing hive ventilation by fanning their wings together, which helps cool the colony and can also help spread pheromone scents at the entrance."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/7_3_Fanning.mp4",
+    "question": "How can you tell the bees are fanning and not just walking around?",
+    "answer": "You can tell they’re fanning because their bodies stay mostly in place while their wings move very quickly, creating a visible motion blur, instead of walking or flying."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/7_3_Fanning.mp4",
+    "question": "What does the wing motion in this clip tell us about hive conditions?",
+    "answer": "The strong wing fanning suggests the bees are trying to adjust hive airflow, likely because of heat, humidity, or the need to evaporate moisture from nectar inside the hive."
+  },
+
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/7_4_Fanning.mp4",
+    "question": "What are the bees doing in this video?",
+    "answer": "The bees are fanning their wings rapidly at the hive entrance. This airflow helps regulate temperature and humidity inside the colony, and can also help evaporate moisture from nectar during honey-making."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/7_4_Fanning.mp4",
+    "question": "Describe the main activity happening in this clip.",
+    "answer": "Worker bees are standing still with their bodies angled slightly upward while vibrating their wings very quickly. This coordinated wing beating is fanning behavior used to circulate air through the hive."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/7_4_Fanning.mp4",
+    "question": "Why are the bees vibrating their wings like this?",
+    "answer": "They are ventilating the hive. The fast wing movement creates airflow that cools the colony, maintains proper humidity, and helps evaporate nectar so it becomes honey."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/7_4_Fanning.mp4",
+    "question": "Explain the purpose of this behavior.",
+    "answer": "The bees are performing fanning behavior, which is used for thermoregulation and moisture control. By acting together, they move large volumes of air through the hive to keep the brood at a stable temperature."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/7_4_Fanning.mp4",
+    "question": "How can you tell the bees are fanning?",
+    "answer": "Their wings appear blurred from constant rapid motion while their bodies stay mostly still. They face outward or toward the entrance, using synchronized wing beating to push air through the hive."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/7_4_Fanning.mp4",
+    "question": "Give a detailed description of the bee activity.",
+    "answer": "A group of worker bees is lined up near the entrance, each holding a stable stance with wings beating so fast that they look like a vibrating halo around the bee's body. This uniform wing motion indicates fanning, a vital behavior for hive ventilation and honey moisture reduction."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/7_4_Fanning.mp4",
+    "question": "What does this wing movement mean?",
+    "answer": "This is classic fanning behavior. Bees beat their wings rapidly to control internal hive airflow, preventing overheating and maintaining brood development conditions."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/7_4_Fanning.mp4",
+    "question": "What is happening in the video?",
+    "answer": "The bees are engaged in fanning behavior, circulating air through the hive using rapid wing vibrations."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/7_4_Fanning.mp4",
+    "question": "Explain the bees’ action.",
+    "answer": "They are fanning. The repetitive, fast wing motion helps regulate temperature inside the hive."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/7_4_Fanning.mp4",
+    "question": "What is the purpose of this behavior?",
+    "answer": "The bees ventilate the hive by pushing air in and out, which prevents overheating and reduces moisture."
+  },
+
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/7_5_Fanning.mp4",
+    "question": "What behavior is shown?",
+    "answer": "The bees are fanning—rapid wing beating to create airflow through the hive."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/7_5_Fanning.mp4",
+    "question": "Why are the bees vibrating their wings?",
+    "answer": "They are ventilating the hive to maintain cool temperatures and help dry nectar into honey."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/7_5_Fanning.mp4",
+    "question": "Describe the activity in detail.",
+    "answer": "Worker bees stand in place and beat their wings at high speed. This coordinated airflow keeps the hive’s internal climate stable."
+  },
+
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/5_2_Grooming.mp4",
+    "question": "What activity are the bees performing in this video?",
+    "answer": "The bees are grooming. One bee is carefully cleaning another bee using its legs and mouthparts."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/5_2_Grooming.mp4",
+    "question": "Describe what is happening in this video.",
+    "answer": "A worker bee is grooming another bee by cleaning dust, pollen, or parasites from its body. The motions are slow and deliberate."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/5_2_Grooming.mp4",
+    "question": "Explain the behavior shown.",
+    "answer": "This is a classic grooming interaction. Bees use their legs and mandibles to remove debris or mites from each other."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/5_2_Grooming.mp4",
+    "question": "What are the bees doing to each other?",
+    "answer": "The bees are grooming one another. You can tell because one bee repeatedly brushes another bee's thorax and head."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/5_2_Grooming.mp4",
+    "question": "Is this fanning, foraging, or grooming?",
+    "answer": "It is grooming. Bees are gently cleaning each other with their legs, not vibrating their wings or collecting nectar."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/5_2_Grooming.mp4",
+    "question": "Why are the bees touching each other like this?",
+    "answer": "They are grooming. Bees often clean one another to maintain hygiene and remove parasites."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/5_2_Grooming.mp4",
+    "question": "What bee behavior is shown here?",
+    "answer": "Grooming behavior. One bee uses rapid brushing motions to clean another bee’s body."
+  },
+
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/7_1_Grooming.mp4",
+    "question": "What are the bees doing in this video?",
+    "answer": "The bee is grooming."
+  },
+
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/8_1_Grooming.mp4",
+    "question": "What behavior are the bees displaying?",
+    "answer": "The bees are grooming. One bee uses its legs to clean its thorax and head, removing dust, mites, or debris."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/8_1_Grooming.mp4",
+    "question": "Describe what the bees are doing in this clip.",
+    "answer": "The bees are cleaning themselves. A bee repeatedly brushes its body with its front legs, which is typical grooming behavior."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/8_1_Grooming.mp4",
+    "question": "Are the bees foraging or something else here?",
+    "answer": "They are not foraging. The bees are engaged in grooming—cleaning their antennae and body surfaces using their legs."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/8_1_Grooming.mp4",
+    "question": "Why is the bee moving its legs over its head?",
+    "answer": "That movement is grooming. The bee is wiping its antennae and head to keep its sensory organs clean."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/8_1_Grooming.mp4",
+    "question": "Explain the main activity happening in the video.",
+    "answer": "The bees are grooming themselves. They are using their legs to brush and clean different parts of their bodies."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/8_1_Grooming.mp4",
+    "question": "What specific bee behavior is shown here?",
+    "answer": "Self-grooming is shown. The bee is cleaning its antennae and face using its front legs."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/8_1_Grooming.mp4",
+    "question": "Are the bees fanning or grooming in this clip?",
+    "answer": "They are grooming. The bee is making brushing motions rather than wing-fanning for airflow."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/8_1_Grooming.mp4",
+    "question": "What is the bee doing with its front legs?",
+    "answer": "The bee is grooming—scraping dirt or mites from its head and antennae using its front legs."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/8_1_Grooming.mp4",
+    "question": "Summarize the bee behavior in this footage.",
+    "answer": "The bee is performing grooming behavior, cleaning its sensory organs and body by rubbing with its legs."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/8_1_Grooming.mp4",
+    "question": "What is happening in this video?",
+    "answer": "The bees are grooming. One bee is using its legs to clean itself, which helps maintain hygiene and remove parasites."
+  },
+
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/8_2_Grooming.mp4",
+    "question": "What behavior is the bee showing?",
+    "answer": "The bee is grooming itself, using its front legs to clean its antennae and head."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/8_2_Grooming.mp4",
+    "question": "Describe the activity happening in this video.",
+    "answer": "The bee is performing self-grooming. It repeatedly wipes its antennae and head with its legs to remove debris or parasites."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/8_2_Grooming.mp4",
+    "question": "Are the bees fanning or grooming in this clip?",
+    "answer": "They are grooming. The bee is using leg movements to clean its body, not fanning wings for airflow."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/8_2_Grooming.mp4",
+    "question": "What is the bee doing with its legs?",
+    "answer": "The bee is grooming, brushing its head and antennae with precise leg movements."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/8_2_Grooming.mp4",
+    "question": "Explain the main behavior shown here.",
+    "answer": "The bee is engaged in self-grooming, a hygienic behavior where it removes dust, pollen, or mites from its body."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/8_2_Grooming.mp4",
+    "question": "Why is the bee touching its head with its legs?",
+    "answer": "This is antenna cleaning, part of grooming. Bees clean their antennae to keep their senses sharp."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/8_2_Grooming.mp4",
+    "question": "What specific behavior can be observed in the bee?",
+    "answer": "The bee is grooming—scraping and wiping its antennae and face using its front legs."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/8_2_Grooming.mp4",
+    "question": "What are the bees doing in this short clip?",
+    "answer": "They are grooming. One bee focuses on cleaning its head and antennae with deliberate leg movements."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/8_2_Grooming.mp4",
+    "question": "Summarize the bee behavior here.",
+    "answer": "This is grooming behavior, where the bee uses its forelegs to remove debris and maintain cleanliness."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/8_2_Grooming.mp4",
+    "question": "What is happening in this bee video?",
+    "answer": "The bee is grooming itself, carefully cleaning its head and antennae to stay hygienic and alert."
+  },
+
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/8_3_Grooming.mp4",
+    "question": "What behavior is the bee showing?",
+    "answer": "The bee is grooming, using its front legs to clean its antennae and head."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/8_3_Grooming.mp4",
+    "question": "Describe what is happening in this video.",
+    "answer": "The bee is performing self-grooming. It repeatedly wipes its antennae and face to remove dust and maintain sensory clarity."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/8_3_Grooming.mp4",
+    "question": "Why is the bee rubbing its legs over its head?",
+    "answer": "The bee is cleaning its head and antennae, which is typical grooming behavior."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/8_3_Grooming.mp4",
+    "question": "Is the bee fanning or grooming?",
+    "answer": "It is grooming. The bee uses its legs—not wings—to clean its sensory organs."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/8_3_Grooming.mp4",
+    "question": "Explain the main bee activity.",
+    "answer": "The bee is engaged in grooming, brushing its antennae and head to remove debris or parasites."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/8_3_Grooming.mp4",
+    "question": "What is the bee doing with its front legs?",
+    "answer": "It is grooming—wiping its antennae and face to keep them clean and functioning well."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/8_3_Grooming.mp4",
+    "question": "What is happening in this clip?",
+    "answer": "The bee is performing self-grooming, cleaning its body and antennae with deliberate leg movements."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/8_3_Grooming.mp4",
+    "question": "Describe the bee's actions.",
+    "answer": "The bee is grooming itself, brushing its head and antennae with its legs to maintain hygiene."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/8_3_Grooming.mp4",
+    "question": "What behavior can be observed in this video?",
+    "answer": "Grooming behavior is observed—the bee cleans its sensory structures by wiping them with its legs."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/8_3_Grooming.mp4",
+    "question": "Summarize the bee behavior shown.",
+    "answer": "The bee is grooming, actively cleaning its antennae and head using its front legs."
+  },
+
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/9_2_Grooming.mp4",
+    "question": "What are the bees doing in this video?",
+    "answer": "In this video the bees are grooming themselves."
+  },
+
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/13_1_Grooming.mp4",
+    "question": "What are the bees doing in this video?",
+    "answer": "The bees are grooming each other. One bee uses its legs and mouthparts to clean another bee’s head and thorax. This helps remove dust, mites, or debris from their bodies."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/13_1_Grooming.mp4",
+    "question": "Describe the main behavior happening here.",
+    "answer": "This is a grooming interaction. A worker bee is carefully brushing another bee using its antennae and front legs to clean off small particles and maintain hive hygiene."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/13_1_Grooming.mp4",
+    "question": "Why are the bees touching each other's heads in this clip?",
+    "answer": "They are grooming. Bees often clean each other’s heads because it is a hard place for a bee to reach by itself. The motion helps remove mites, dust, and debris."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/13_1_Grooming.mp4",
+    "question": "Explain the behavior shown.",
+    "answer": "Two bees are engaged in a cooperative grooming behavior called allo-grooming. One bee repeatedly brushes another bee's head and thorax to keep the colony clean and healthy."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/13_1_Grooming.mp4",
+    "question": "Are the bees fighting or doing something else?",
+    "answer": "They are not fighting. This is grooming behavior. The bees are gently cleaning each other using their legs and mouthparts."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/13_1_Grooming.mp4",
+    "question": "What subtle movements indicate grooming?",
+    "answer": "You can see rapid brushing motions with the front legs and delicate touches with the antennae. These are classic indicators of grooming rather than aggression or fanning."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/13_1_Grooming.mp4",
+    "question": "What cooperative activity is happening here?",
+    "answer": "The bees are performing allo-grooming, a cooperative behavior where one bee helps clean another bee to maintain hygiene and remove parasites."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/13_1_Grooming.mp4",
+    "question": "Why does one bee stay still while the other is moving?",
+    "answer": "The still bee is allowing the other to groom it. Bees often pause to let another worker clean their head or thorax more effectively."
+  },
+
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/13_2_Grooming.mp4",
+    "question": "What behavior are the bees showing?",
+    "answer": "The bees are grooming each other by cleaning the head and thorax areas. This social grooming helps remove dust, parasites, and debris."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/13_2_Grooming.mp4",
+    "question": "Why are the bees touching each other with their legs?",
+    "answer": "They are performing grooming behavior, using their front legs and mouthparts to clean one another to maintain hygiene inside the hive."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/13_2_Grooming.mp4",
+    "question": "Explain what is happening in this clip.",
+    "answer": "A few worker bees are engaged in mutual grooming. They carefully clean another bee’s antennae and face to ensure proper communication and remove any contaminants."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/13_2_Grooming.mp4",
+    "question": "Describe the main activity in the video.",
+    "answer": "The main activity is grooming behavior. The worker bees repeatedly stroke and clean another bee using their forelegs and mandibles."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/13_2_Grooming.mp4",
+    "question": "What are the bees doing with their antennae?",
+    "answer": "They are grooming the antennae of a nestmate, which is essential because bees rely heavily on clean antennae for detecting pheromones and navigating."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/13_2_Grooming.mp4",
+    "question": "Why are the bees gathered around one bee?",
+    "answer": "Several bees have surrounded one worker to groom her. This cooperative cleaning removes mites, dust, and any irritants."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/13_2_Grooming.mp4",
+    "question": "Is this defensive behavior?",
+    "answer": "No. This is social grooming, not aggression. The bees are gently cleaning each other, which is normal cooperative behavior in healthy hives."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/13_2_Grooming.mp4",
+    "question": "Are the bees fighting?",
+    "answer": "No, they are not fighting. They are grooming—cleaning each other’s bodies using their legs and mandibles."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/13_2_Grooming.mp4",
+    "question": "Why is this grooming important?",
+    "answer": "Grooming helps bees remove varroa mites, dust, and pathogens. Clean body surfaces and antennae keep communication signals accurate."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/13_2_Grooming.mp4",
+    "question": "Summarize the behavior in this scene.",
+    "answer": "The bees are engaged in mutual grooming, a cooperative maintenance behavior where workers help clean each other’s antennae, heads, and thorax."
+  },
+
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/38_1_Signaling.mp4",
+    "question": "What is the bee doing in this video?",
+    "answer": "The bee is signaling by lifting and vibrating its abdomen while facing another bee. This is a form of communication used to warn, direct movement, or guide nestmates."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/38_1_Signaling.mp4",
+    "question": "Describe the main activity happening here.",
+    "answer": "A worker bee is performing a signaling motion, raising its rear end and vibrating to get the attention of nearby bees. This is a coordinated communication behavior inside the hive."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/38_1_Signaling.mp4",
+    "question": "Why is the bee lifting its abdomen?",
+    "answer": "The bee is lifting its abdomen as part of a signaling behavior. This posture is used to communicate with other bees, often to warn them or to direct movement."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/38_1_Signaling.mp4",
+    "question": "Is the bee fanning, grooming, or signaling?",
+    "answer": "The bee is signaling. It raises its abdomen and vibrates to communicate with other bees rather than fanning air or grooming itself."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/38_1_Signaling.mp4",
+    "question": "Explain the behavior shown in this clip.",
+    "answer": "This clip shows a worker bee performing a signaling behavior, using abdominal lifting and vibration to send cues to other bees nearby. It is a form of hive communication."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/38_1_Signaling.mp4",
+    "question": "What type of hive communication is visible here?",
+    "answer": "The video shows signaling behavior. The bee raises its abdomen and vibrates to send a message to surrounding bees, which helps coordinate activity inside the hive."
+  },
+
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/5_3_Yello_Jacket.mp4",
+    "question": "What is happening in this video?",
+    "answer": "A yellow jacket wasp is attempting to enter the hive area and is attacking the honey bees. The bees are responding defensively, trying to block and repel the intruder."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/5_3_Yello_Jacket.mp4",
+    "question": "Describe the main activity seen here.",
+    "answer": "A yellow jacket is aggressively approaching the honey bees, and the bees are engaging in defensive behavior to stop the wasp from entering or stealing resources."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/5_3_Yello_Jacket.mp4",
+    "question": "Why are the bees reacting strongly in this video?",
+    "answer": "The bees are reacting strongly because a yellow jacket predator is attacking the hive area. Yellow jackets often try to steal honey or grab bees, so the colony mounts a defense."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/5_3_Yello_Jacket.mp4",
+    "question": "Is this normal bee behavior?",
+    "answer": "Yes. When a yellow jacket appears near the hive, honey bees immediately defend the entrance. This includes biting, grappling, and surrounding the predator to drive it away."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/5_3_Yello_Jacket.mp4",
+    "question": "What is the threat in this clip?",
+    "answer": "The threat is a yellow jacket wasp, which is known to prey on bees and steal honey. The honey bees are actively trying to prevent the wasp from entering the hive."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/5_3_Yello_Jacket.mp4",
+    "question": "Explain the bee behavior in detail.",
+    "answer": "The bees notice a yellow jacket intruding near the entrance. The wasp moves quickly and aggressively, and the bees attempt to surround, bite, and push it away. This is coordinated defensive behavior to protect the colony."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/5_3_Yello_Jacket.mp4",
+    "question": "What does the yellow jacket want here?",
+    "answer": "The yellow jacket is likely attempting to steal honey or capture a bee as prey. This is typical predatory behavior, and the bees try to stop it immediately."
+  },
+
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/10_2_Yellow Jacket.mp4",
+    "question": "What is happening in this video?",
+    "answer": "A yellow jacket wasp is attacking the honey bees at the hive entrance. The bees are gathering around it defensively, trying to push it away or subdue it."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/10_2_Yellow Jacket.mp4",
+    "question": "Describe the interaction between the bees and the yellow jacket.",
+    "answer": "The bees are responding defensively to a yellow jacket intruder. They surround it, bite and grab at its legs and body, attempting to drag it away from the hive and neutralize the threat."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/10_2_Yellow Jacket.mp4",
+    "question": "Why are the bees behaving aggressively here?",
+    "answer": "They are defending the hive from a yellow jacket wasp. Yellow jackets try to steal honey or attack bees, so the colony reacts aggressively to protect resources and defend the entrance."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/10_2_Yellow Jacket.mp4",
+    "question": "What is the main threat shown in the video?",
+    "answer": "The main threat is a yellow jacket wasp trying to get into the hive. Bees are responding with defensive clustering and attempts to immobilize the intruder."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/10_2_Yellow Jacket.mp4",
+    "question": "Explain the defensive behavior of the bees.",
+    "answer": "Honey bees are forming a tight group around the yellow jacket, grabbing it and pushing it onto the ground. This teamwork helps them overwhelm the intruder and prevent it from entering the hive."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/10_2_Yellow Jacket.mp4",
+    "question": "What is the yellow jacket doing in this clip?",
+    "answer": "The yellow jacket is trying to force its way into the bee colony. It moves aggressively and attempts to break through the bees’ defenses but is met with strong resistance."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/10_2_Yellow Jacket.mp4",
+    "question": "Is this normal bee behavior?",
+    "answer": "Yes. When a yellow jacket intrudes near the entrance, bees quickly form a defensive ball around it, trying to overpower or drive it away to protect the colony."
+  },
+  {
+    "video": "C:/Users/Windows/aploo/data/bees/videos/10_2_Yellow Jacket.mp4",
+    "question": "Summarize what the bees are doing.",
+    "answer": "The bees are coordinating a defensive effort, swarming over a yellow jacket and preventing it from entering the hive, showing classic hive protection behavior."
+  }
+]
