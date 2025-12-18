@@ -31,8 +31,8 @@ Apollo project utilities (must exist in your repo):
 - `utils/constants.py`
 
 Model/checkpoint:
-- Base model: `GoodiesHere/Apollo-LMMs-Apollo-3B-t32` (downloaded automatically)
-- Fine-tuned checkpoint: `checkpoints/apollo_bee_vqa_best_cpu.pth` (must exist locally)
+- Base model: `GoodiesHere/Apollo-LMMs-Apollo-3B-t32` 
+- Fine-tuned checkpoint: `checkpoints/apollo_bee_vqa_best_cpu.pth` 
 
 ---
 
@@ -55,5 +55,6 @@ python bee_app.py
 By default it launches locally at:
 
 http://127.0.0.1:7860
+
 
 
